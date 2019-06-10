@@ -20,9 +20,7 @@
         <module>consul-order-server</module>
         <module>springcloud2.0-starter-api-services</module>
         <module>springcloud2.0-starter-api-order-service-impl</module>
-        <module>_1</module>
         <module>springcloud2.0-starter-api-services</module>
-        <module>springcloud20starterapimemberserviceimpl</module>
         <module>springcloud2.0-starter-api-member-service-impl</module>
         <module>springcloud2.0-starter-common</module>
         <module>config-server</module>

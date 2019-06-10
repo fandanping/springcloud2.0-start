@@ -1,10 +1,10 @@
 ###consul服务端口号
 server:
-  port: 8505
+  port: 8506
 #consul服务名称
 spring:
   application:
-    name: consul-member-server
+    name: consul-order-server
 ####consul注册中心地址
   cloud:
     consul:
@@ -13,6 +13,5 @@ spring:
       port: 8500
       discovery:
       #服务地址直接为ip地址
-       # hostname: 192.168.1.197
-        serviceName: ${spring.application.name}
+        #hostname: 192.168.1.198
 

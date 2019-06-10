@@ -9,8 +9,8 @@ public class MemberController {
     @Value("${server.port}")
     private String serverPort;
     //服务接口
-    @RequestMapping("/getZKMember")
-    public String getMember(){
+    @RequestMapping("/feignmember")
+    public String feignmember(){
         return "this is getMember"+serverPort;
     }
 }

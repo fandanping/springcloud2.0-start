@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 public class ExtRibbonController {
-    //可以获取注册 中心上的服务列表
+    //可以获取注册中心上的服务列表
     @Autowired
     private DiscoveryClient discoveryClient;
     //接口的请求总数
