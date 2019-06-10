@@ -1,0 +1,41 @@
+###服务启动端口号
+server:
+  port: 8001
+###服务名称(服务注册到eureka名称)
+spring:
+    application:
+        name: app-itmayiedu-order
+###服务注册到eureka地址
+eureka:
+  client:
+    service-url:
+           #defaultZone: http://localhost:8100/eureka,http://localhost:9100/eureka
+           defaultZone: http://localhost:8100/eureka
+    ###因为该应用为注册中心，不会注册自己
+    register-with-eureka: true
+    ###是否需要从eureka上获取注册信息
+    fetch-registry: true
+#springcloud feign客户端默认支持开启ribbon
+###设置feign客户端超时时间
+ribbon:
+###指的是建立连接所用的时间，适用于网络状况正常的情况下，两端连接所用的时间。
+ ReadTimeout: 50000
+###指的是建立连接后从服务器读取到可用资源所用的时间。
+ ConnectTimeout: 50000
+
+feign:
+  hystrix:
+     enabled: true
+
+#### hystrix禁止服务超时时间
+hystrix:
+  command:
+    default:  #default全局有效，service id指定应用有效
+      execution:
+        timeout:
+          #如果enabled设置为false，则请求超时交给ribbon控制,为true,则超时作为熔断根据
+          enabled: true
+        isolation:
+          thread:
+            timeoutInMilliseconds: 1000 #断路器超时时间，默认1000ms
+

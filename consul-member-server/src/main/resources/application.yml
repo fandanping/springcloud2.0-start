@@ -1,0 +1,17 @@
+###consul服务端口号
+server:
+  port: 8505
+#consul服务名称
+spring:
+  application:
+    name: consul-order
+####consul注册中心地址
+  cloud:
+    consul:
+      #consul地址
+      host: localhost
+      port: 8500
+      discovery:
+      #服务地址直接为ip地址
+        hostname: 192.168.18.220
+

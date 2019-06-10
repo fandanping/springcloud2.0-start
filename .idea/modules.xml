@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/config-client/config-client.iml" filepath="$PROJECT_DIR$/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-member-server/consul-member-server.iml" filepath="$PROJECT_DIR$/consul-member-server/consul-member-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consul-order-server/consul-order-server.iml" filepath="$PROJECT_DIR$/consul-order-server/consul-order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-8100/eureka-server-8100.iml" filepath="$PROJECT_DIR$/eureka-server-8100/eureka-server-8100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-9100/eureka-server-9100.iml" filepath="$PROJECT_DIR$/eureka-server-9100/eureka-server-9100.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-member-server/member-server.iml" filepath="$PROJECT_DIR$/eureka-member-server/member-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-order-server/order-server.iml" filepath="$PROJECT_DIR$/eureka-order-server/order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2.0-starter-api-member-service-impl/springcloud2.0-starter-api-member-service-impl.iml" filepath="$PROJECT_DIR$/springcloud2.0-starter-api-member-service-impl/springcloud2.0-starter-api-member-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2.0-starter-api-services/springcloud2.0-starter-api-member-services/springcloud2.0-starter-api-member-services.iml" filepath="$PROJECT_DIR$/springcloud2.0-starter-api-services/springcloud2.0-starter-api-member-services/springcloud2.0-starter-api-member-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2.0-starter-api-order-service-impl/springcloud2.0-starter-api-order-service-impl.iml" filepath="$PROJECT_DIR$/springcloud2.0-starter-api-order-service-impl/springcloud2.0-starter-api-order-service-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2.0-starter-api-services/springcloud2.0-starter-api-order-services/springcloud2.0-starter-api-order-services.iml" filepath="$PROJECT_DIR$/springcloud2.0-starter-api-services/springcloud2.0-starter-api-order-services/springcloud2.0-starter-api-order-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2.0-starter-api-services/springcloud2.0-starter-api-services.iml" filepath="$PROJECT_DIR$/springcloud2.0-starter-api-services/springcloud2.0-starter-api-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2.0-starter-common/springcloud2.0-starter-common.iml" filepath="$PROJECT_DIR$/springcloud2.0-starter-common/springcloud2.0-starter-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud2.0-架构.iml" filepath="$PROJECT_DIR$/springcloud2.0-架构.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud_zuul_gateway/springcloud_zuul_gateway.iml" filepath="$PROJECT_DIR$/springcloud_zuul_gateway/springcloud_zuul_gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper-member-server/zookeeper-member-server.iml" filepath="$PROJECT_DIR$/zookeeper-member-server/zookeeper-member-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper-order-server/zookeeper-order-server.iml" filepath="$PROJECT_DIR$/zookeeper-order-server/zookeeper-order-server.iml" />
+    </modules>
+  </component>
+</project>
