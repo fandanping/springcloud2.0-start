@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="consul-member-server" />
+        <module name="consul-order-server" />
+        <module name="eureka-server" />
+        <module name="eureka-server-8100" />
+        <module name="eureka-server-9100" />
+        <module name="member-server" />
+        <module name="order-server" />
+        <module name="springcloud2.0-starter-api-member-service-impl" />
+        <module name="springcloud2.0-starter-api-member-services" />
+        <module name="springcloud2.0-starter-api-order-service-impl" />
+        <module name="springcloud2.0-starter-api-order-services" />
+        <module name="springcloud2.0-starter-common" />
+        <module name="springcloud_zuul_gateway" />
+        <module name="zookeeper-member-server" />
+        <module name="zookeeper-order-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="_1" target="1.8" />
+      <module name="_2" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="consul-member-server" target="1.8" />
+      <module name="consul-order-server" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eureka-server-8100" target="1.8" />
+      <module name="eureka-server-9100" target="1.8" />
+      <module name="member-server" target="1.8" />
+      <module name="order-server" target="1.8" />
+      <module name="springcloud2.0-starter-api-member-service-impl" target="1.8" />
+      <module name="springcloud2.0-starter-api-member-services" target="1.8" />
+      <module name="springcloud2.0-starter-api-order-service-impl" target="1.8" />
+      <module name="springcloud2.0-starter-api-order-services" target="1.8" />
+      <module name="springcloud2.0-starter-api-services" target="1.8" />
+      <module name="springcloud2.0-starter-common" target="1.8" />
+      <module name="springcloud2.0-架构" target="1.8" />
+      <module name="springcloud20starterapimemberserviceimpl" target="1.8" />
+      <module name="springcloud_zuul_gateway" target="1.8" />
+      <module name="zookeeper-member-server" target="1.8" />
+      <module name="zookeeper-order-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

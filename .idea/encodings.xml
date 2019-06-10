@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-member-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consul-order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-member-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-8100" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server-9100" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud2.0-starter-api-member-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud2.0-starter-api-order-service-impl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud2.0-starter-api-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud2.0-starter-api-services/springcloud2.0-starter-api-member-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud2.0-starter-api-services/springcloud2.0-starter-api-order-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud2.0-starter-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springcloud_zuul_gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-member-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper-order-server" charset="UTF-8" />
+  </component>
+</project>
